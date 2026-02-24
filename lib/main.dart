@@ -4,7 +4,7 @@ void main (){
   runApp(
     MaterialApp(
       debugShowCheckedModeBanner: false,
-      home:Text("Hello") ,
+      home:Text("Hello World") ,
     )
   );
 }
